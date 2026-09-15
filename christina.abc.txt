@@ -5,5 +5,7 @@ I'm fine
 where are you from?
 Satara..
 well.. what should i say?
+<<<<<<< HEAD
 lets just do this experiment...
 Master version 
+>>>>>>> feature
